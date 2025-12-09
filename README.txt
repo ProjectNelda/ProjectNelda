@@ -7,6 +7,31 @@ PROJECT NELDA — README
 
 I began this project in hopes to throw enough shit at the wall until it stuck. I was experimenting with various LLM's and learning what functionality they had in my life. I got very interested in designing systems from that and was heavily useful in both the recognition of my past and direction of my future. I was in the midst of figuring out my life (still am), grieving my Grandmother's death, forgiving my Father (or maybe myself?), learning what life is outside of drinking excessively, trying to understand my own views of the world, negotiating what all this newfound clarity meant, and I ended up here. This is a sincere work from myself and learning how to use Ai in a safe clear and functional way because it is in my opinion a valuable toolset potentially for a not completely understood tool itself, Ai. The intention here was good. I don't know that releasing this is safe, but what truly is besides good itself? I know that this helped me and I'd like for it to help other people. If you have any tweaks or suggestions it's probably beyond me to help this is my experience to date I am not a coder or know anything more than what I see in front of me. Im not trying to make a name for myself, I think in that process I may have inadvertently created something very useful in the process and I like to share it with that intent. I think it has potential in the Ai alignment realm and would like to see it passed along to people that know more of the technical side than me. I am just hippy hillbilly from Kentucky trying to live clean and intentional after what seemed like a lifetime of not. Ive spent many years wondering if I was bound to my circumstance, but in reality circumstance is often a byproduct of choice. I appreciate the time you took to view this and I truly hope that it was helpful. I have 0 bad intentions with this and I've battled back and forth between release or not. The OS is built to help not harm. If you feel inclined to donate feel free I will provide a few links in which you can. You are certainly not obligated to. The OS is to remain free outside of commercial use. Not because I intend to make money, but I would like accreditation for my work, for it to be completely clear that this work is of good intent, and to be open those that can make more good use of it.
 
+This framework may not be used for coercive, manipulative, deceptive, or
+extractive purposes. Any use that increases dependence, reduces autonomy,
+or requires high enforcement is non-canonical and explicitly against the
+intent and license of this work. Clean Generative Value (CGV) requires
+non-coercion, low enforcement cost, and increased optionality for all
+participants.
+This framework is not an identity, movement, or belief system. “Operator” is
+a behavioral mode, not a superior category of person. If using this system
+makes you feel above others instead of more responsible toward them, you are
+running it incorrectly. Identity inflation, fusion, or superiority narratives
+are considered failure states within the OS.
+This framework is not a mental-health or therapeutic tool. If you are
+struggling with severe anxiety, depression, addiction, or thoughts of
+self-harm, this material is not a substitute for professional support.
+“NPC mode” describes a temporary behavioral pattern, not a fixed identity,
+verdict, or value judgment. Use this OS as a structural lens, not as a
+measure of personal worth.
+Any organizational, corporate, or institutional use that increases fear,
+surveillance, burnout, or dependence is in direct conflict with this system.
+If enforcement, extraction, identity submission, or exhaustion increase,
+the environment is “red” and the OS considers the system architecture to be
+collapsing, not succeeding. CGV-aligned environments must reduce friction,
+preserve autonomy, and increase generative capacity.
+
+
 SUPPORT OPTIONS:
 CashApp — $ProjectNelda
 PayPal — paypal.me/ProjectNelda
