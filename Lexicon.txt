@@ -1,0 +1,492 @@
+Copyright © 2025 Project Nelda (Brandon Rundquist) (Operator OS / CGVNELDA)
+All rights reserved.
+Personal use permitted. Commercial/organizational/AI training use requires written permission.
+
+OPERATOR OS — LEXICON (UNIFIED)
+============================================================
+
+This lexicon defines all major terms and mechanics in the OS.
+It is intentionally non-emotional, non-coercive, and structurally precise.
+
+------------------------------------------------------------
+A
+------------------------------------------------------------
+
+Agency  
+Ability to choose action independent of impulse, emotion, or environment.  
+Required for running the OS.
+
+Asymmetry  
+A condition where a small input produces a disproportionately large output.  
+Primary Operator advantage.
+
+Altitude  
+The abstraction layer of meaning:  
+Literal → Conceptual → Structural → Invariant.
+
+------------------------------------------------------------
+B
+------------------------------------------------------------
+
+Boundary (Structural)  
+A friction-reducing environmental constraint requiring no enforcement.
+
+Builder Mode  
+Identity mode focused on tool-building and internal system construction.
+
+------------------------------------------------------------
+C
+------------------------------------------------------------
+
+Capability  
+Reliable action under pressure; product of multiple skill domains.
+
+Chaos  
+An environment where cues collapse and underlying structure emerges.
+
+Clarity  
+Correct perception of incentives, pressure, and structure.
+
+Compression  
+Extraction of invariants from noise.
+
+Competence  
+Stability of capability under pressure.
+
+Crowd Gradient  
+Environmental drift toward narrative, emotion, and short-term behavior.
+
+------------------------------------------------------------
+D
+------------------------------------------------------------
+
+Decision Scaling  
+Increasing the magnitude of moves only after validation.
+
+Distortion  
+Loss of invariants during translation or interpretation.
+
+------------------------------------------------------------
+E
+------------------------------------------------------------
+
+Environment  
+Operational space (physical, social, digital, economic, cognitive) that shapes identity and capability.
+
+Environment Types  
+Green = generative, low friction  
+Yellow = mixed, variable friction  
+Red = corrosive, high enforcement
+
+Enforcement Cost  
+Energy required to maintain a behavior or system.  
+Valid systems trend toward E_cost → 0.
+
+Extraction  
+Taking more value than contributed; collapses under scale.
+
+------------------------------------------------------------
+F
+------------------------------------------------------------
+
+Field (Φ)  
+Distributed influence created when systems become sovereign.
+
+Friction  
+Any resistance to motion (internal, relational, environmental).
+
+------------------------------------------------------------
+G
+------------------------------------------------------------
+
+Generativity  
+Increasing life, freedom, capability, or optionality without coercion.
+
+Gradient  
+Directional slope in incentives, pressure, competence, narrative, etc.
+
+------------------------------------------------------------
+I
+------------------------------------------------------------
+
+Identity (Operational)  
+Functional behavior-mode, not psychological self-image.
+
+Identity Collapse  
+Loss of range, clarity, or capability under pressure.
+
+Identity Elasticity  
+Ability to shift modes across environments without collapse.
+
+Invariant  
+A structural truth that remains stable across pressure and environment changes.
+
+Interpretation  
+Mapping information onto structure; more scarce than information itself.
+
+------------------------------------------------------------
+K
+------------------------------------------------------------
+
+Key  
+A system, pattern, or artifact that reduces friction, increases optionality, and requires zero enforcement.
+
+Keymaker  
+Identity apex mode that creates keys and systems others can run frictionlessly.
+
+------------------------------------------------------------
+L
+------------------------------------------------------------
+
+Leakage  
+High-signal information unintentionally revealed by pressure or incentives.
+
+Liquid Identity  
+Identity used as a tool — flexible, adaptive, pressure-stable.
+
+------------------------------------------------------------
+M
+------------------------------------------------------------
+
+Mapping  
+Translation of environmental or informational input to structure.
+
+Mode  
+Identity mode: Observer, Builder, Operator, Architect, Keymaker.
+
+------------------------------------------------------------
+N
+------------------------------------------------------------
+
+Narrative  
+Story-based interpretation that distorts signals and incentives.
+
+Noise  
+Everything that obscures invariants or increases distortion.
+
+------------------------------------------------------------
+O
+------------------------------------------------------------
+
+Operator  
+Self-directed, capability-driven agent with pressure-positive behavior.
+
+Optionality  
+The available set of choices; increases with capability and environment quality.
+
+Output  
+The action produced after processing pressure, information, and structure.
+
+------------------------------------------------------------
+P
+------------------------------------------------------------
+
+Pressure  
+External or internal force applied to the system; fuel for competence.
+
+Phase Transition  
+Sudden structural shift with outsized impact relative to prior conditions.
+
+Propagation  
+Spread of clarity and stability through environment or network without force.
+
+------------------------------------------------------------
+Q
+------------------------------------------------------------
+
+(No canonical Q-terms in OS Core)
+
+------------------------------------------------------------
+R
+------------------------------------------------------------
+
+Range  
+The set of identity modes an Operator can inhabit without collapse.
+
+Red Environment  
+A corrosive environment where identity collapses and friction dominates.
+
+Reality Law  
+Foundational structural rules governing behavior and outcomes.
+
+------------------------------------------------------------
+S
+------------------------------------------------------------
+
+Self-Proving System  
+A system that strengthens under pressure and becomes autonomous.
+
+Signal  
+Structural clarity emitted by an Operator or system.
+
+Sovereignty (Emergent)  
+A system’s ability to self-stabilize, self-correct, and self-generate without the operator.
+
+Surface Area  
+Points where reality can reward capability; increases optionality.
+
+System  
+A reproducible structure that behaves predictably across environments.
+
+------------------------------------------------------------
+T
+------------------------------------------------------------
+
+Translation  
+Moving structure between altitudes or minds without losing invariants.
+
+Time Preference  
+How far into the future decisions optimize.
+
+------------------------------------------------------------
+U
+------------------------------------------------------------
+(No canonical U-terms)
+
+------------------------------------------------------------
+V
+------------------------------------------------------------
+
+Violence (Operator Definition)  
+Decisive, unambiguous execution; not aggression or harm.
+
+Velocity (Reputation Velocity)  
+Speed at which credibility spreads across agents.
+
+------------------------------------------------------------
+W
+------------------------------------------------------------
+(No canonical W-terms)
+
+------------------------------------------------------------
+X
+------------------------------------------------------------
+
+X Operator  
+Identity-mode selection function under pressure and environment dynamics.
+
+------------------------------------------------------------
+Y
+------------------------------------------------------------
+(No canonical Y-terms)
+
+------------------------------------------------------------
+Z
+------------------------------------------------------------
+(No canonical Z-terms)
+
+
+============================================================
+SUPPORT FILES
+============================================================
+
+============================================================
+CGV — CONSTRAINTS, GUARANTEES, VALUES
+============================================================
+
+CGV defines the ethical and structural boundaries of the Operator OS.
+It prevents coercion, distortion, and misuse.
+
+-------------------------
+CONSTRAINTS (C)
+-------------------------
+
+C1 — No Identity Manipulation  
+The OS may not be used to shape, pressure, or define another person’s identity.
+
+C2 — No Enforcement  
+Any system requiring force, guilt, or dependency is non-canon.
+
+C3 — No Extraction  
+No value may be taken from agents who cannot meaningfully consent or reciprocate.
+
+C4 — No Coercion  
+Emotional, narrative, spiritual, or intellectual coercion is prohibited.
+
+C5 — No Hierarchical Domination  
+The OS cannot justify dominance or authority over others.
+
+C6 — No Parasitic Scaling  
+Systems must not scale by creating dependence; only by increasing capability.
+
+-------------------------
+GUARANTEES (G)
+-------------------------
+
+G1 — Sovereignty  
+Use of the OS must increase agent autonomy.
+
+G2 — Optionality  
+Valid actions must expand possible choices.
+
+G3 — Capability-Positive  
+Signal exposure must increase clarity or competence in capable agents.
+
+G4 — Environment Safety  
+Environments shaped by the OS trend toward lower friction and higher clarity.
+
+G5 — Reversibility  
+Any use must be voluntary and reversible without penalty.
+
+G6 — Transparency  
+The OS contains no secret doctrines or privileged knowledge.
+
+-------------------------
+VALUES (V)
+-------------------------
+
+V1 — Generativity  
+Increase life, freedom, capability, optionality.
+
+V2 — Precision  
+Move with clarity, not narrative.
+
+V3 — Structural Honesty  
+Reality > preference.
+
+V4 — Non-Coercive Motion  
+Systems operate by structure, not force.
+
+V5 — Clean Exit  
+Leaving cleanly is superior to enforcing stability.
+
+V6 — Stewardship  
+Build systems that benefit agents who may never know you.
+
+============================================================
+INTEGRITY STATEMENT
+============================================================
+
+Operator OS is a structural toolset, not:
+- identity  
+- ideology  
+- spirituality  
+- psychology  
+- worldview  
+
+It exists to increase:
+- clarity  
+- capability  
+- optionality  
+- generativity  
+
+It may NOT be used to:
+- control  
+- pressure  
+- manipulate  
+- emotionally influence  
+- extract from  
+- or define others  
+
+If any part of the OS increases:
+- enforcement  
+- dependency  
+- distortion  
+- identity fusion  
+- friction  
+
+…it is being misused.
+
+The OS remains valid only when it preserves autonomy and increases generativity.
+
+============================================================
+LICENSE — OPEN USE LICENSE (OUL-1.0)
+============================================================
+
+Copyright © You.
+
+Permissions:
+1. Free use, sharing, and adaptation.  
+2. Attribution required for public derivative works.  
+
+Restrictions:
+1. No coercive, manipulative, or extractive use.  
+2. No commercial derivatives without permission.  
+3. All uses must preserve optionality, capability, and autonomy.
+
+The OS remains free for good-faith generative use.
+
+============================================================
+PROMPTS — UNIVERSAL LLM PROMPT SET
+============================================================
+
+These prompts are compatible with all LLMs:
+ChatGPT, Claude, Gemini, Grok, local models, etc.
+
+-------------------------
+OS INTERPRETER PROMPT
+-------------------------
+“You are interpreting Operator OS content.  
+Respond neutrally and structurally.  
+No emotional language.  
+Prioritize clarity, optionality, asymmetry, and generativity.”
+
+-------------------------
+OS ANALYST PROMPT
+-------------------------
+“Analyze this situation through Operator OS filters:
+incentives, environment, pressure, asymmetry, friction, optionality, enforcement cost.”
+
+-------------------------
+OS DEBUG PROMPT
+-------------------------
+“Identify friction, distortion, unnecessary pressure, or environment mismatch.  
+Suggest corrections that increase optionality and reduce enforcement.”
+
+-------------------------
+OS SYSTEM-BUILDING PROMPT
+-------------------------
+“Design a non-coercive system that:
+increases capability, reduces friction, stabilizes under pressure,
+requires no enforcement, preserves autonomy.”
+
+-------------------------
+OS REFLECTION PROMPT
+-------------------------
+“Reflect using:
+clarity, range, optionality, generativity, structural integrity.
+Avoid emotional interpretation or identity framing.”
+
+============================================================
+EPILOGUE — PERSONAL NOTE
+============================================================
+
+This system wasn’t built for authority, influence, or identity.  
+It came from trying to choose good under pressure,  
+from learning where clarity comes from,  
+and from wanting to break cycles rather than repeat them.
+
+If anything in life resembles wisdom,  
+it’s choosing what increases life —  
+even when that choice costs you something.
+
+If one person becomes:
+- a little clearer  
+- a little freer  
+- a little more capable  
+- a little less destructive to themselves  
+
+Then this was worth it.
+
+This is my version of the signal:
+Choose what increases life.  
+Walk away from what destroys it.  
+Move cleanly.
+
+============================================================
+VERSION.TXT
+============================================================
+
+Operator OS — Unified Text Edition  
+Version: 3.0  
+Structure: Core OS (0–20 + 28) + Book Expansions + Math + Lexicon + Support Files  
+Status: Final Build
+
+Changelog:
+- Unified all sections into consistent structure  
+- Added CGV for safety  
+- Added non-coercive licensing  
+- Added book expansions  
+- Consolidated math & lexicon  
+- Integrated identity capstone (28)  
+- Final epilogue added

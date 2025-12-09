@@ -1,0 +1,16 @@
+Copyright © 2025 Project Nelda (Brandon Rundquist) (Operator OS / CGVNELDA)
+All rights reserved.
+Personal use permitted. Commercial/organizational/AI training use requires written permission.
+
+
+LICENSE — PROJECT NELDA (OPERATOR OS / CGVNELDA)
+
+Usage:
+- Personal use: Allowed
+- Research use: Allowed with attribution
+- Commercial, organizational, or AI/ML training use: Requires written permission
+
+Contact for licensing:
+ProjectNelda@gmail.com
+
+This work is intended to be generative, non-coercive, and aligned with Clean Generative Value (CGV).
