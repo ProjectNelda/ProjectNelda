@@ -1,2 +1,2 @@
 # ProjectNelda
-Structural Decision Making Framework
+Clean Generative Value – Operator OS / Project Nelda ethics + decision framework
