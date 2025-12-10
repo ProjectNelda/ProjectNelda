@@ -31,8 +31,3 @@ the environment is “red” and the OS considers the system architecture to be
 collapsing, not succeeding. CGV-aligned environments must reduce friction,
 preserve autonomy, and increase generative capacity.
 
-
-SUPPORT OPTIONS:
-CashApp — $ProjectNelda
-PayPal — paypal.me/ProjectNelda
-Email — ProjectNelda@gmail.com
