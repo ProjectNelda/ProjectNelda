@@ -5,7 +5,7 @@ Personal use permitted. Commercial/organizational/AI training use requires writt
 
 PROJECT NELDA — README
 
- I was experimenting with various LLM's and learning what functionality they had in my life. The OS is built to help not harm. The OS is to remain free outside of commercial use. Not because I intend to make money, but I would like accreditation for my work, for it to be completely clear that this work is of good intent, and to be open those that can make more good use of it.
+I was experimenting with various LLM's and learning what functionality they had in my life. The OS is built to help not harm. The OS is to remain free outside of commercial use. Not because I intend to make money, but I would like accreditation for my work, for it to be completely clear that this work is of good intent, and to be open those that can make more good use of it.
 
 This framework may not be used for coercive, manipulative, deceptive, or
 extractive purposes. Any use that increases dependence, reduces autonomy,
